@@ -7,5 +7,5 @@ I am a Full Stack Developer and Founder of Zaspi!. Here We Do Platform Developme
 	<img src="./assets/mail.svg" width="42px" height="42px">
 </a>
 <a href="https://linkedin.com/in/akazyti">
-	<img src="./assets/linkedin.svg" width="32px" height="32px">
+	<img src="./assets/linkedin.svg" width="48px" height="48px">
 </a>
