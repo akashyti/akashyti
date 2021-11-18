@@ -1,13 +1,13 @@
-# Heya!
+# Zaspi!
+
+I am a Full Stack Developer and Founder of Zaspi!. Here We Do Platform Development as Service. We are also specialized in ERPNext and Frappe Development.
 
 
-
-I am a Full Stack Developer and full time freelancer. I Have a software service and consulting company Zaspi.
-
-Here at Zaspi we provide solutions and consulting for Software Development in fields of ERP, Real State, Social Media, E-Commerce and much more..
-
-
-
-You can Find me on
-
-[twitter](https://twitter.com/akashyti) [linkedin](https://linkedin.com/in/akashyti) <a href="mailto:chaudhari041@outlook.com"> Email </a>
+<div style="display:flex; align-items: center; justify-content: center">
+<a href="https://linkedin.com/in/akazyti" style="margin-right:20px">
+	<img src="./assets/mail.svg" width="48px" height="48px">
+</a>
+<a href="https://linkedin.com/in/akazyti">
+	<img src="./assets/linkedin.svg" width="48px" height="48px">
+</a>
+</div>
